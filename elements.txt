@@ -1,0 +1,1 @@
+"Hydrogen\nHelium\nLithium\nBeryllium\nBoron\nCarbon\nNitrogen\nOxygen\nFluorine\nNeon\nSodium\nMagnesium\nAluminum\nSilicon\nPhosphorus\nSulfur\nChlorine\nArgon\nPotassium\nCalcium"
